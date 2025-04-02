@@ -1,4 +1,4 @@
-<h1><a href="https://651dbbfb2fc5af4158ec74a8--lambent-daffodil-a5ac02.netlify.app/" target="_blank"> FitnessClub.org</a></h1>
+<h1><a href="https://mishra04.netlify.app/" target="_blank"> Gymnasium.org</a></h1>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
